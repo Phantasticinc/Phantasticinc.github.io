@@ -1,10 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.phantasticvanguard.fidget",
-    "sha256_cert_fingerprints": [
-      "4A:82:B9:3B:2B:B6:B4:FF:90:83:0C:8F:4E:E5:E7:6A:9F:00:12:04:7A:16:0A:1C:99:AD:F3:D3:E8:D0:FC:8A"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.phantasticvanguard.fidget",
+      "sha256_cert_fingerprints": [
+        "4A:82:B9:3B:2B:B6:B4:FF:90:83:0C:8F:4E:E5:E7:6A:9F:00:12:04:7A:16:0A:1C:99:AD:F3:D3:E8:D0:FC:8A",
+        "EC:C8:D3:B4:4A:FA:D7:83:44:38:F9:8D:C7:B6:5D:2A:A4:4A:6E:93:D6:62:B7:3D:87:42:D7:25:C7:F0:DE:A9"
+      ]
+    }
   }
-}]
+]
